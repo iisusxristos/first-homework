@@ -1,0 +1,53 @@
+
+body{
+	background-color: black;
+	color:white;
+}
+
+a {vlink:float;}
+
+p {
+	font-family: Arial, sant-serif;
+	width:80%;
+}
+
+span {
+	text: red;
+}
+.one{font-size: 13px;
+	color:red;
+	font-family: serif;
+}
+.min {font-family: tt;
+color:#666999;}
+.zvezda{
+	font-size:14px;
+	color:green;
+}
+.two {
+	font-size:16px;
+	color:blue;
+}
+.tree{
+	font-size:11px;
+	color:yellow;
+	font-family: courier;
+}
+.spisok{
+	font-size:20px;
+	color:#fff0ff;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
